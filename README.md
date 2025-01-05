@@ -1,57 +1,50 @@
 <h1 align="center">Hi there 👋, I'm Gordon Lu</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+AI+Enthusiast;Big+Data+Pipeline+Expert;Computer+Vision+Researcher;NYU+MSCS+Student;Open+Source+Contributor" alt="Typing SVG" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://github.com/glu99331/glu99331/assets/banner.png" alt="Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+AI+Enthusiast;Big+Data+Pipeline+Expert;Computer+Vision+Researcher;NYU+MSCS+Student;Actively+Looking+for+Opportunities" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me
-👨‍💻 **Software Engineer** passionate about building **scalable, high-performance systems** and driving innovation in **AI**, **Big Data**, and **Computer Vision**. Currently pursuing an MS in Computer Science at **NYU**, I thrive in fast-paced environments where technology solves complex, real-world problems.
+👨‍💻 I'm a **Software Engineer** with expertise in **AI**, **Big Data**, and **Cloud Computing**, currently pursuing my MS in Computer Science at **NYU**. My passion lies in building **scalable systems**, solving **real-world problems**, and driving innovation through **data-driven solutions**.  
 
-💡 I believe in **learning by building** and love contributing to open-source projects while exploring the latest trends in **machine learning** and **cloud computing**.
+💡 I thrive on **learning through building** and actively contribute to **open-source projects** while exploring cutting-edge advancements in **machine learning**, **computer vision**, and **distributed systems**.
 
----
-
-## 🏆 Achievements
-- 🏅 **Improved AWS-hosted application reliability** at Capital One, reducing delays by **75%**.
-- 🚀 **Enhanced YOLO-based object detection accuracy** to **98% mAP@50**, pushing the boundaries of underwater detection.
-- ⚡ Optimized ETL pipelines with **Apache Spark**, cutting processing time by **75%**.
+⚡ **Currently Open to Opportunities**: Seeking full-time roles in **Software Engineering**, **Machine Learning**, or **Big Data Engineering**. Let's connect!
 
 ---
 
-## 🔭 Currently Working On
-- **AI Research**: Exploring **out-of-sample detection** and **feature extraction pipelines**.
-- **Big Data Pipelines**: Optimizing distributed systems for real-time streaming and data migration.
-- **Open Source**: Contributing to projects related to **AI** and **MLOps**.
+## 🏆 Career Highlights
+- 🌟 Optimized **ETL pipelines** using Apache Spark, reducing data processing time by **75%**.
+- 🚀 Achieved **98% mAP@50** in YOLO-based object detection for underwater imagery.
+- 💻 Designed and deployed cloud-based solutions serving millions of users daily.
+- 🏅 Recognized for delivering **high-impact projects** that blend innovation with performance.
+
+---
+
+## 🔭 What I'm Working On
+- **AI Research**: Exploring new methods for **out-of-sample detection** and improving **feature extraction pipelines**.  
+- **Big Data Solutions**: Building **real-time streaming platforms** for dynamic analytics.  
+- **Open Source Contributions**: Collaborating on projects that bridge AI and distributed systems.
 
 ---
 
 ## 💻 Tech Stack
 
-### 🌟 Core Skills
+### 🌟 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🤖 AI & ML
+### 🤖 AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### ⚡ Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 ### ☁️ Cloud & Big Data
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 ---
 
@@ -95,5 +88,9 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/glu99331/glu99331/output/snake.svg" alt="Snake animation" />
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
