@@ -35,15 +35,15 @@
 ### 🤖 AI & Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="AI Tools" />
-  <img src="https://raw.githubusercontent.com/glu99331/assets/main/numpy-icon.svg" width="50" alt="NumPy" />
-  <img src="https://raw.githubusercontent.com/glu99331/assets/main/pandas-icon.svg" width="50" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
 </p>
 
 ### ☁️ Cloud & Big Data
 <p>
   <img src="https://skillicons.dev/icons?i=aws,mysql,mongodb,kafka" alt="Cloud Tools" />
-  <img src="https://raw.githubusercontent.com/glu99331/assets/main/spark-icon.svg" width="80" alt="Spark" />
-  <img src="https://raw.githubusercontent.com/glu99331/assets/main/hadoop-icon.svg" width="80" alt="Hadoop" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white" alt="Apache Hadoop" />
 </p>
 
 ### 🛠 Development Tools
@@ -85,17 +85,20 @@
 
 ## 📫 Connect With Me
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/glu99331/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <p style="font-family: Arial, sans-serif; font-size: 14px;">LinkedIn</p>
   </a>
   <a href="mailto:gl1589@nyu.edu" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+    <p style="font-family: Arial, sans-serif; font-size: 14px;">Email</p>
   </a>
   <a href="https://github.com/glu99331" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    <p style="font-family: Arial, sans-serif; font-size: 14px;">GitHub</p>
   </a>
-</p>
+</div>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
