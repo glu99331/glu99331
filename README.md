@@ -31,10 +31,14 @@
 <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,html,css" /><br>
 
 ### 🤖 AI & Machine Learning
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas" /><br>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /><br>
 
 ### ☁️ Cloud & Big Data
-<img src="https://skillicons.dev/icons?i=aws,spark,hadoop,kafka,mysql,mongodb" /><br>
+<img src="https://skillicons.dev/icons?i=aws,mysql,mongodb,kafka" />
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white" /><br>
 
 ### 🛠 Development Tools
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,github,vscode,git" /><br>
