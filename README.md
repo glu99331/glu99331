@@ -27,11 +27,11 @@
 
 ## 💻 Skills & Tools
 
-### 🌟 Languages
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,c,typescript,r" /><br>
+### 🌟 Programming Languages
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,html,css" /><br>
 
 ### 🤖 AI & Machine Learning
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikit-learn,opencv" /><br>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas" /><br>
 
 ### ☁️ Cloud & Big Data
 <img src="https://skillicons.dev/icons?i=aws,spark,hadoop,kafka,mysql,mongodb" /><br>
