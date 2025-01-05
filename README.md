@@ -35,15 +35,15 @@
 ### 🤖 AI & Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="AI Tools" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="50" alt="NumPy" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="50" alt="Pandas" />
+  <img src="https://raw.githubusercontent.com/glu99331/assets/main/numpy-icon.svg" width="50" alt="NumPy" />
+  <img src="https://raw.githubusercontent.com/glu99331/assets/main/pandas-icon.svg" width="50" alt="Pandas" />
 </p>
 
 ### ☁️ Cloud & Big Data
 <p>
   <img src="https://skillicons.dev/icons?i=aws,mysql,mongodb,kafka" alt="Cloud Tools" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="80" alt="Spark" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Hadoop_logo_new.svg" width="80" alt="Hadoop" />
+  <img src="https://raw.githubusercontent.com/glu99331/assets/main/spark-icon.svg" width="80" alt="Spark" />
+  <img src="https://raw.githubusercontent.com/glu99331/assets/main/hadoop-icon.svg" width="80" alt="Hadoop" />
 </p>
 
 ### 🛠 Development Tools
@@ -87,13 +87,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/glu99331/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:gl1589@nyu.edu" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
   <a href="https://github.com/glu99331" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
 </p>
 
