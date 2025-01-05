@@ -85,26 +85,21 @@
 
 ## 📫 Connect With Me
 
-<div align="center" style="display: flex; justify-content: center; gap: 40px;">
-  <a href="https://www.linkedin.com/in/glu99331/" target="_blank">
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" />
-      <p style="font-family: Arial, sans-serif; font-size: 14px; margin-top: 5px;">LinkedIn</p>
-    </div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/glu99331/" target="_blank" style="margin: 0 30px; text-decoration: none; color: inherit;">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" style="vertical-align: middle;" />
+    <span style="font-family: Arial, sans-serif; font-size: 14px; margin-left: 8px;">LinkedIn</span>
   </a>
-  <a href="mailto:gl1589@nyu.edu" target="_blank">
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50" />
-      <p style="font-family: Arial, sans-serif; font-size: 14px; margin-top: 5px;">Email</p>
-    </div>
+  <a href="mailto:gl1589@nyu.edu" target="_blank" style="margin: 0 30px; text-decoration: none; color: inherit;">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50" style="vertical-align: middle;" />
+    <span style="font-family: Arial, sans-serif; font-size: 14px; margin-left: 8px;">Email</span>
   </a>
-  <a href="https://github.com/glu99331" target="_blank">
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" />
-      <p style="font-family: Arial, sans-serif; font-size: 14px; margin-top: 5px;">GitHub</p>
-    </div>
+  <a href="https://github.com/glu99331" target="_blank" style="margin: 0 30px; text-decoration: none; color: inherit;">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" style="vertical-align: middle;" />
+    <span style="font-family: Arial, sans-serif; font-size: 14px; margin-left: 8px;">GitHub</span>
   </a>
 </div>
+
 
 
 <div align="center">
