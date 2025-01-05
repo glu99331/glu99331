@@ -28,20 +28,28 @@
 ## 💻 Skills & Tools
 
 ### 🌟 Programming Languages
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,html,css" /><br>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,html,css" alt="Languages" />
+</p>
 
 ### 🤖 AI & Machine Learning
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /><br>
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="AI Tools" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="50" alt="NumPy" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="50" alt="Pandas" />
+</p>
 
 ### ☁️ Cloud & Big Data
-<img src="https://skillicons.dev/icons?i=aws,mysql,mongodb,kafka" />
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white" /><br>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,mysql,mongodb,kafka" alt="Cloud Tools" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="80" alt="Spark" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Hadoop_logo_new.svg" width="80" alt="Hadoop" />
+</p>
 
 ### 🛠 Development Tools
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,github,vscode,git" /><br>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,github,vscode,git" alt="Dev Tools" />
+</p>
 
 ---
 
