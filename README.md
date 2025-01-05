@@ -86,21 +86,22 @@
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/glu99331/" target="_blank" style="margin: 0 30px; text-decoration: none; color: inherit;">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" style="vertical-align: middle;" />
-    <span style="font-family: Arial, sans-serif; font-size: 14px; margin-left: 8px;">LinkedIn</span>
+  <a href="https://www.linkedin.com/in/glu99331/" target="_blank" style="margin: 0 40px; text-decoration: none; color: inherit;">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" style="display: block; margin: 0 auto;" />
+    <p style="font-family: Arial, sans-serif; font-size: 14px; text-align: center; margin-top: 8px;">LinkedIn</p>
   </a>
-  <a href="mailto:gl1589@nyu.edu" target="_blank" style="margin: 0 30px; text-decoration: none; color: inherit;">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50" style="vertical-align: middle;" />
-    <span style="font-family: Arial, sans-serif; font-size: 14px; margin-left: 8px;">Email</span>
+  <a href="mailto:gl1589@nyu.edu" target="_blank" style="margin: 0 40px; text-decoration: none; color: inherit;">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50" style="display: block; margin: 0 auto;" />
+    <p style="font-family: Arial, sans-serif; font-size: 14px; text-align: center; margin-top: 8px;">Email</p>
   </a>
-  <a href="https://github.com/glu99331" target="_blank" style="margin: 0 30px; text-decoration: none; color: inherit;">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" style="vertical-align: middle;" />
-    <span style="font-family: Arial, sans-serif; font-size: 14px; margin-left: 8px;">GitHub</span>
+  <a href="https://github.com/glu99331" target="_blank" style="margin: 0 40px; text-decoration: none; color: inherit;">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" style="display: block; margin: 0 auto;" />
+    <p style="font-family: Arial, sans-serif; font-size: 14px; text-align: center; margin-top: 8px;">GitHub</p>
   </a>
 </div>
 
 
+-- 
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
