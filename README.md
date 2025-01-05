@@ -86,17 +86,17 @@
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/glu99331/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-    <p style="font-family: Arial, sans-serif; font-size: 14px;">LinkedIn</p>
+  <a href="https://www.linkedin.com/in/glu99331/" target="_blank" style="margin: 0 20px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" />
+    <p style="font-family: Arial, sans-serif; font-size: 14px; margin-top: 5px;">LinkedIn</p>
   </a>
-  <a href="mailto:gl1589@nyu.edu" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-    <p style="font-family: Arial, sans-serif; font-size: 14px;">Email</p>
+  <a href="mailto:gl1589@nyu.edu" target="_blank" style="margin: 0 20px;">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50" />
+    <p style="font-family: Arial, sans-serif; font-size: 14px; margin-top: 5px;">Email</p>
   </a>
-  <a href="https://github.com/glu99331" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-    <p style="font-family: Arial, sans-serif; font-size: 14px;">GitHub</p>
+  <a href="https://github.com/glu99331" target="_blank" style="margin: 0 20px;">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" />
+    <p style="font-family: Arial, sans-serif; font-size: 14px; margin-top: 5px;">GitHub</p>
   </a>
 </div>
 
