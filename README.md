@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Gordon Lu</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=👨‍💻+Software+Engineer;🤖+AI+Enthusiast;📊+Big+Data+Pipeline+Expert;📚+NYU+MSCS+Graduate+Student;🚀+Open+to+New+Opportunities!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=👨‍💻+Software+Engineer;🤖+AI+Enthusiast;📊+Big+Data+Pipeline+Expert;📚+NYU+MSCS+Graduate;📚+Columbia+MSAI+Graduate+Student;🚀+Open+to+New+Opportunities!" alt="Typing Animation" />
 </div>
 
 ---
